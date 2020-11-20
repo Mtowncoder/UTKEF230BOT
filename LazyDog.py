@@ -12,7 +12,7 @@ if i == "what's the weather":
     import requests, json 
   
 # Enter your API key here 
-    api_key = "3a27fe66ad4e02d5fc787979f159dd1f"
+    api_key = "yourapikey"
   
 # base_url variable to store url 
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
